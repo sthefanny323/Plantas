@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Planta_Larissah_1703323
+namespace Planta_Sthefanny_1709542
 {
 	public class Frutifera : Planta
 	{
